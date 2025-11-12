@@ -1,1 +1,1 @@
-No credential, date, and/or time information are saved.
+This program does not collect, store, or retain any user credentials, date, or time information.
